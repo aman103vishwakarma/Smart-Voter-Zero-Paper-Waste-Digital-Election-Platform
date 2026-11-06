@@ -1,0 +1,21 @@
+{
+  "name": "Smart Voter - Eco Election Platform",
+  "short_name": "SmartVoter",
+  "description": "Zero paper roadside waste election platform with verified digital manifestos, GPS constituency lookup, and live QR camera scanning.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#16a34a",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=192&auto=format&fit=crop&q=80",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=512&auto=format&fit=crop&q=80",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
